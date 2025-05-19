@@ -1,12 +1,16 @@
-📊 Análise de Rotatividade de Colaboradores
-📁 Visão Geral
+##📊 Análise de Rotatividade de Colaboradores
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#📁 Visão Geral
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Este projeto visa analisar e prever a rotatividade de colaboradores em uma organização, utilizando duas abordagens complementares:
 
 Análise Diagnóstica (Power BI): Examina os padrões e características dos colaboradores que já se desligaram, comparando-os com os colaboradores ativos.
 
 Análise Preditiva (Python): Desenvolve um modelo de machine learning para prever quais colaboradores têm maior probabilidade de solicitar desligamento no futuro.
 
-🧠 Análise Diagnóstica com Power BI
+
+#🧠 Análise Diagnóstica com Power BI
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 A análise diagnóstica foi conduzida no Power BI, permitindo uma visualização interativa dos dados relacionados aos colaboradores. Os principais objetivos desta análise incluem:
 
 Identificar padrões demográficos e profissionais entre os colaboradores que se desligaram.
@@ -17,7 +21,9 @@ Detectar possíveis fatores que contribuem para a rotatividade.
 
 O dashboard desenvolvido oferece insights valiosos para a equipe de Recursos Humanos, auxiliando na compreensão dos motivos de desligamento e na formulação de estratégias de retenção.
 
-🤖 Análise Preditiva com Python
+
+#🤖 Análise Preditiva com Python
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 A análise preditiva foi realizada utilizando Python, com o objetivo de antecipar quais colaboradores têm maior probabilidade de solicitar desligamento. As etapas principais incluem:
 
 Pré-processamento de Dados:
@@ -44,7 +50,9 @@ Geração de previsões para o conjunto de dados atual.
 
 Integração dos resultados com o Power BI para visualização.
 
-🛠️ Tecnologias Utilizadas
+
+#🛠️ Tecnologias Utilizadas
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Power BI: Visualização e análise de dados.
 
 Python: Análise preditiva e manipulação de dados.
