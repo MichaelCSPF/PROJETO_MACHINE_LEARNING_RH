@@ -9,6 +9,7 @@ Análise Diagnóstica (Power BI): Examina os padrões e características dos col
 Análise Preditiva (Python): Desenvolve um modelo de machine learning para prever quais colaboradores têm maior probabilidade de solicitar desligamento no futuro.
 
 
+
 #🧠 Análise Diagnóstica com Power BI
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 A análise diagnóstica foi conduzida no Power BI, permitindo uma visualização interativa dos dados relacionados aos colaboradores. Os principais objetivos desta análise incluem:
@@ -20,7 +21,7 @@ Comparar métricas de desempenho e engajamento entre colaboradores ativos e desl
 Detectar possíveis fatores que contribuem para a rotatividade.
 
 O dashboard desenvolvido oferece insights valiosos para a equipe de Recursos Humanos, auxiliando na compreensão dos motivos de desligamento e na formulação de estratégias de retenção.
-
+![image](https://github.com/user-attachments/assets/fdc11bcf-33f0-4e34-b6a5-6e1a6b4280ea)
 
 #🤖 Análise Preditiva com Python
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
